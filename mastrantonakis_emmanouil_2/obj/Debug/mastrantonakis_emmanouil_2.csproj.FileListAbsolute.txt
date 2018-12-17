@@ -1,0 +1,7 @@
+C:\Users\Emmanouil Mastranton\Desktop\C# Programs\mastrantonakis_emmanouil_2\mastrantonakis_emmanouil_2\bin\Debug\mastrantonakis_emmanouil_2.exe.config
+C:\Users\Emmanouil Mastranton\Desktop\C# Programs\mastrantonakis_emmanouil_2\mastrantonakis_emmanouil_2\bin\Debug\mastrantonakis_emmanouil_2.exe
+C:\Users\Emmanouil Mastranton\Desktop\C# Programs\mastrantonakis_emmanouil_2\mastrantonakis_emmanouil_2\bin\Debug\mastrantonakis_emmanouil_2.pdb
+C:\Users\Emmanouil Mastranton\Desktop\C# Programs\mastrantonakis_emmanouil_2\mastrantonakis_emmanouil_2\obj\Debug\mastrantonakis_emmanouil_2.csprojAssemblyReference.cache
+C:\Users\Emmanouil Mastranton\Desktop\C# Programs\mastrantonakis_emmanouil_2\mastrantonakis_emmanouil_2\obj\Debug\mastrantonakis_emmanouil_2.csproj.CoreCompileInputs.cache
+C:\Users\Emmanouil Mastranton\Desktop\C# Programs\mastrantonakis_emmanouil_2\mastrantonakis_emmanouil_2\obj\Debug\mastrantonakis_emmanouil_2.exe
+C:\Users\Emmanouil Mastranton\Desktop\C# Programs\mastrantonakis_emmanouil_2\mastrantonakis_emmanouil_2\obj\Debug\mastrantonakis_emmanouil_2.pdb
